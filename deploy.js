@@ -257,6 +257,14 @@ let challengeModule = (() => {
         margin: 0 auto;
         padding: 5px 0;
       }
+      .go-to-cart a:hover{
+        color: white !important;
+        text-decoration: none !important;
+      }
+      .go-to-cart a:active{
+        color: white !important;
+        text-decoration: none !important;
+      }
       .cart-link{
         font-size: 1.59rem;
         font-weight: 700;
